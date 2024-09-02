@@ -26,3 +26,12 @@ Available Controls inside Sorting Visualizer:-
 - Use 5 to start Quick Sort Algorithm.
 - Use 6 to start Heap Sort Algorithm.
 - Use q to exit out of Sorting Visualizer
+
+
+
+# Samples:-
+
+![Uploading example1.gif…]()
+
+![example2](https://github.com/user-attachments/assets/ff64fa5a-f7bd-41e2-a856-2e6f6db665c3)
+
